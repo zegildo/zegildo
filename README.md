@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zegildo
 - 👀 I’m interested in Stocks, Reits, Blockchain and DataMining.
-- 🌱 I’m currently learning Flask 
+- 🌱 I’m currently learning about LLM. 
 - 📫 zegildo.com / @yosef.araujo
